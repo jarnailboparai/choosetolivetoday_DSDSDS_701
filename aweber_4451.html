@@ -144,9 +144,9 @@ jQuery(document).ready(function(){
 
 				{
 
-					$('.squeeze_wrapper').html("");
+					$('.squeeze_wrapper').hide();
 
-					$('.squeeze_wrapper').html("<div class='no_data'>Submit Successfully</div>");
+					$('.thankyou_msg').show();
 
 				}
 
@@ -160,7 +160,7 @@ jQuery(document).ready(function(){
 
 				}
 
-	        	//popdetialHideOther(arg);
+	        	
 
 	        },
 
@@ -222,9 +222,11 @@ img {
 
 <div class="squeeze_desc">
 
-Sign Up to Our Free News Letter to find out the latest and greatest news 
+	Sign Up to Our Free News Letter to find out the latest and greatest news 
 
 </div>
+
+<div class="squeeze_desc aweber_note">
 
     <form action="http://app-gorilla.com/members/wizard/index.php?r=aweber/addusertolist" method="POST" id='module-form-aweber'>
 
@@ -244,9 +246,15 @@ Sign Up to Our Free News Letter to find out the latest and greatest news
 
 	    <input name="email" type="text" placeholder="Email" />
 
+		
+
     	<input type="submit" class="ui-shadow ui-btn ui-corner-all ui-btn-inline ui-btn-b ui-mini" value="Submit" />
 
+    	<!--Legaltext-->
+
     </form>
+
+    </div>
 
     </div>
 
@@ -255,6 +263,16 @@ Sign Up to Our Free News Letter to find out the latest and greatest news
   <!-- Squeeze Page Ends here -->
 
   
+
+  
+
+  <!-- thank you message -->
+
+  <div class="thankyou_msg"><!--Thankyou--></div>
+
+  
+
+  <!-- Thankyou message ends here -->
 
 </div>
 
