@@ -145,11 +145,11 @@
 	background-image:none;
 	background-repeat:no-repeat;
 	background-size:cover;	
-	background: radial-gradient(center bottom , ellipse cover , rgb(0, 0, 0) 1% , rgb(27, 229, 130) 8% , rgb(28, 170, 42) 61% , rgb(53, 9, 87) 76% , rgb(0, 0, 0) 80% , rgb(42, 182, 43) 96%);
-background: -o-radial-gradient(center bottom , ellipse cover , rgb(0, 0, 0) 1% , rgb(27, 229, 130) 8% , rgb(28, 170, 42) 61% , rgb(53, 9, 87) 76% , rgb(0, 0, 0) 80% , rgb(42, 182, 43) 96%);
-background: -ms-radial-gradient(center bottom , ellipse cover , rgb(0, 0, 0) 1% , rgb(27, 229, 130) 8% , rgb(28, 170, 42) 61% , rgb(53, 9, 87) 76% , rgb(0, 0, 0) 80% , rgb(42, 182, 43) 96%);
-background: -moz-radial-gradient(center bottom , ellipse cover , rgb(0, 0, 0) 1% , rgb(27, 229, 130) 8% , rgb(28, 170, 42) 61% , rgb(53, 9, 87) 76% , rgb(0, 0, 0) 80% , rgb(42, 182, 43) 96%);
-background: -webkit-radial-gradient(center bottom , ellipse cover , rgb(0, 0, 0) 1% , rgb(27, 229, 130) 8% , rgb(28, 170, 42) 61% , rgb(53, 9, 87) 76% , rgb(0, 0, 0) 80% , rgb(42, 182, 43) 96%);
+	background: radial-gradient(left top , circle cover , rgb(0, 0, 0) 1% , rgb(27, 229, 130) 8% , rgb(32, 31, 113) 24% , rgb(53, 9, 87) 76% , rgb(28, 170, 42) 76% , rgb(0, 0, 0) 80% , rgb(42, 182, 43) 96%);
+background: -o-radial-gradient(left top , circle cover , rgb(0, 0, 0) 1% , rgb(27, 229, 130) 8% , rgb(32, 31, 113) 24% , rgb(53, 9, 87) 76% , rgb(28, 170, 42) 76% , rgb(0, 0, 0) 80% , rgb(42, 182, 43) 96%);
+background: -ms-radial-gradient(left top , circle cover , rgb(0, 0, 0) 1% , rgb(27, 229, 130) 8% , rgb(32, 31, 113) 24% , rgb(53, 9, 87) 76% , rgb(28, 170, 42) 76% , rgb(0, 0, 0) 80% , rgb(42, 182, 43) 96%);
+background: -moz-radial-gradient(left top , circle cover , rgb(0, 0, 0) 1% , rgb(27, 229, 130) 8% , rgb(32, 31, 113) 24% , rgb(53, 9, 87) 76% , rgb(28, 170, 42) 76% , rgb(0, 0, 0) 80% , rgb(42, 182, 43) 96%);
+background: -webkit-radial-gradient(left top , circle cover , rgb(0, 0, 0) 1% , rgb(27, 229, 130) 8% , rgb(32, 31, 113) 24% , rgb(53, 9, 87) 76% , rgb(28, 170, 42) 76% , rgb(0, 0, 0) 80% , rgb(42, 182, 43) 96%);
 }
 
 
